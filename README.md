@@ -1,76 +1,127 @@
-# The Microsoft Fabric Global Hack 2025
+# Hack the Future of Data and AI with Microsoft Fabric  
 
 -->banner image<--
 
-## Introduction
+Build intelligent solutions. Win up to $10,000. Shape what’s next. 
 
-🛠️Build, innovate, and Hack!🛠️ It's time to get started building Data & AI solutions with Microsoft Fabric. 🔥
+Keeping up the momentum from the Microsoft Fabric Community Conference in Vienna, it’s time to join the Microsoft Fabric FabCon Global Hackathon!  
 
-The Microsoft Fabric Global Hack 2025 is a 2 week global virtual hackathon happening from September 15th 2025 to October 3rd 2025. This event is open to anyone who is eager to explore the endless possibilities of leveraging Microsoft Fabric to build innovative data and AI solutions. Whether you're just starting out, an experienced maker, an admin, Power BI enthusiast, AI Engineer, developer, or a data pro, you're all welcome to participate. The possibilities ar endless for what you can create, plus submit your project fir a chance to win exciting prizes!
+Unleash the power of Microsoft Fabric to create real-world AI and analytics solutions. Whether you're a seasoned data professional or just starting out, this is your chance to innovate, learn, and win. 
 
-It is recommended for participants to follow the roadmap below for a successful hackathon experience.
+## How to Participate
 
-## Hackathon Roadmap
+The hackathon welcomes participants of all skill levels; from beginners to seasoned data professionals. You can participate solo or form a team of up to three members.  
 
-Follow these steps for a successful hackathon experience:
+1. Register now at https://aka.ms/FabConRegister 
+1. Complete the [Microsoft Fabric & FabCon Hackathon Skilling Plan](https://aka.ms/FabConHack-SkillingPlan)
+1. Choose a category and start building! To build your solutions on Microsoft Fabric you will need Fabric Capacity. If you do not have one, follow [these instructions](/CREATE_FABRIC_CAPACITY.md) to create one.
+1. Submit your project any time before November 3rd, 11:59 PM PST. Provide a brief description of the project, the solution overview, short video demo of your solution, a link to a project repository on GitHub and an attestation to the completion of the Skilling Plan. You can submit your solution [here](https://github.com/microsoft/fabcon-global-hack-25/issues/new?assignees=&labels=&projects=&template=hack.yml&title=Project:+%3Cshort+description%3E).
+1. 📣 Winners will be announced the week of November 10, 2025. 
+
+## What to Build
+
+Entrants must create a Microsoft Fabric data solution that fits within one of the following categories: 
+
+**1. Best AI Application Built with Microsoft Fabric**
+
+Build a complete solution that uses Fabric's advanced capabilities such as Data Agents, integration with AI Foundry, or Copilot Studio. It could also include building retrieval augmented generation (RAG) apps with the Eventhouse as your vector store, forecasting, anomaly detection, or custom ML models trained in Fabric. The goal is to show how Fabric’s AI capabilities can be combined to build something intelligent and grounded in real data. 
+
+- Fabric Features: Data Agents, Building Custom ML Models, integration with AI Foundry/Copilot Studio
+- Judges are looking for: Innovation, AI integration, demo clarity
+
+**2. Best Use of Real-Time Intelligence (RTI)**
+
+Create responsive systems that ingest, monitor, and act on real-time data. A solution here could connect to live data sources such as Event Hubs, Kafka, or CDC-enabled databases through Fabric’s Real-Time Hub. Any good RTI solution would include real-time data processing, real-time analytics, real-time monitoring, real-time alerting, or any other real-time application within Microsoft Fabric. Using RTI as a source of data for your AI application is also a great way to showcase the power of RTI. The focus is on showing how real-time data can be used to make decisions, detect issues, and respond quickly. 
+
+- Fabric Features: Real-Time Intelligence, Eventstreams, Eventhouse, Real
+- Judges are looking for: realtime data sources integration, Realtime data as AI input, realtime dashboards
+
+**3. Best Use of AI Features within Microsoft Fabric**
+
+Showcase full Fabric AI capabilities and how they support automation and insight. A solution might use Copilot to build pipelines or generate visuals from natural language, Data Agents to enable conversational analytics, or AI Functions to summarize, classify, or translate data. AutoML and SynapseML may support model training. The aim is to show how Fabric’s AI features help users work faster, prepare data more easily, and uncover useful insights. 
+
+- Fabric Features: Copilot, Data Agents, AI Functions, AI Shortcut Transformation, Stand-alone Copilot
+- Judges are looking for: Productivity, cost-effectiveness 
+
+**4. Best Analytics Solution with Azure or Fabric Databases**
+
+Create an analytics solution that connects to Operational Databases on Azure or on Microsoft Fabric. This could be either by connecting o Azure SQL, Cosmos DB, or Azure PostgreSQL using Mirroring, CDC, pipelines or Dataflows Gen2; or se Microsoft Fabric’s native databases: Fabric SQL Database for relational workloads and Fabric Cosmos DB Database for NoSQL scenarios.
+
+- Fabric Features: Mirroring, Fabric SQL Database,Fabric Cosmos DB, GraphQL Endpoint
+- Judges are looking for: Integration with external datasources on Azure, Using operational databases in Fabric for developer applications
+
+**5. Best Use of Open Mirroring**
+
+Build a complete solution that uses pen Mirroring to replicate external data into Fabric. Showcasing how schema changes and updates are handled automatically. The focus is on simplifying ingestion from any source using open mirroring and making external data ready for analytics and insights.
+
+- Fabric Features: Open Mirroring
+- Judges are looking for: Data integration with Open Mirroring, demo clarity
+
+## Prizes
+
+**Total prize pool:** $10,000 USD
+Winners will be featured on Microsoft’s blog and social media.
+
+| Prize Category| Prize| Description|
+|---|----|----|
+| Grand Prize | $2500| Best overall solution with real-world impact and innovative use of AI in Fabric |
+| Best AI Application  | $1500| Uses Data Agents, integration with AI Foundry/Copilot Studio, Custom ML/AI solution |
+| Best Use of Real-Time Intelligence | $1500 | Connects to live data sources and showcases real-time analytics |
+| Best Use of AI Features  | $1500 | Leverages Copilot, Data Agents, AI Functions, AutoML, SynapseML for automation and insights |
+|Best Analytics Solutions using Azure Databases or databases in Fabric  | $1500 | Uses Azure SQL, Azure Cosmos DB, Azure PostgreSQL, or Fabric native databases |
+| Best Use of Open Mirroring | $1500 |  Demonstrates seamless ingestion and analytics using mirrored external data |
+
+## Judging Criteria
+[Submit your project](https://github.com/microsoft/fabcon-global-hack-25/issues/new?assignees=&labels=&projects=&template=hack.yml&title=Project:+%3Cshort+description%3E) any time before November 3rd, 11:59 PM PST. Projects will be evaluated by Microsoft product managers and developer advocates across four categories, and each contributes 25% to the final score: 
+
+| Judging Criteria | What Judges are Looking For |
+|---|---|
+| Hackathon Category Alignment | Does the solution clearly fit one or more of the five official categories? |
+| Innovation & Impact  | Is the solution original, relevant, and solving a real-world problem that benefits others? | 
+| Documentation & Reproducibility | Is the GitHub repo well-documented and easy to follow? Can others replicate the solution? |
+| Video Demonstration  | Does the video clearly show how the solution works, especially its use of Microsoft Fabric + AI? | 
+
+## What to Submit
+
+- Project: Newly built Microsoft Fabric project aligned with one of the listed categories.
+- Code: URL to your GitHub code repository. If private, grant access to pdecarlo@microsoft.com.
+- Demo Video: Link to a 3–5-minute public video to YouTube, Vimeo, or Facebook demonstrating your project in action.
+- Access: Working link to your project (website, demo, or test build) for judging.  
+
+[Submit your Project Here](https://github.com/microsoft/fabcon-global-hack-25/issues/new?assignees=&labels=&projects=&template=hack.yml&title=Project:+%3Cshort+description%3E). Winners will be announced during the week of November 10, 2025. 
+
+## 🎉 Let’s Hack Together! 
+
+👉 Join the [Hackathon Discord Channel](https://discord.com/channels/1113626258182504448/1397841931182276701) to connect with experts and peers to get help on your project. 
 
 -->roadmap image<--
 
-## 00 - Prerequisites
+### Hackathon Livestream Learning Series
 
-Register for The Microsoft Fabric Global Hack 2025 at -->registration link<--. Before registering please make sure to read the [official contest rules](CONTEST_RULES.md).
-
-You will need to have access to a Microsoft Fabric Capacity. If you do no not have one, you can create a Microsoft Fabric Capacity by following [these instructions](/CREATE_FABRIC_CAPACITY.md).
-
-**Introduce yourself,** we'd like to get to know you! 🥳 Join the Hackathon Discord Channel -->(Discord link)<-- to ask questions, share ideas, connect with other participants and get feedback from Microsoft Experts.
-
-**Planning on hacking with Azure OpenAI?** We're able to offer no-cost, limited access to Azure OpenAI - no Azure account needed. See the instructions on how to [get access here](AI_ACCESS.md).
-
-**Planning on hacking leveraging other Azure Resources?** See instructions on how get [activate a free Azure Subscription here](AZURE_ACCESS.md).
-
-## 01 - Start Hacking on September 15th
-
-Either team up with others (max 3 people per team) or fly solo to start hacking and make sure to [register for the Hackathon](-->registration link<--). You can start hacking on September 15th, 2025. The hackathon will run until October 3rd, 2025.
-
-## 02 - Join the live sessions for learning and inspiration
-
-We will be hosting live sessions to help you get started with Microsoft Fabric and the features across the Hackathon solutions categories, i.e., AI & Copilot in Fabric, Real-Time Intelligence, Fabric Databases & Mirroring.
-
-Join these live sessions to learn from Microsoft experts, get inspired, and ask questions. The live sessions will be recorded and available for on-demand viewing.
+Join these livestream (and on-demand) sessions to learn how to build AI-powered data and analytics solutions with Microsoft Fabric and get inspired to start hacking! All the sessions will be at **09:00 AM (PST)**
 
 | Date         | Live Stream Topic                                                            | Live Link                                                                | Add to Calendar Invite                                                                         |
 | --------     | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| September 15 | Fabric Global Hack Kickoff: Do more with AI and Microsoft Fabric             | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24808/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream1) |
-| September 18 | Bring all your data from everywhere into OneLake with Microsoft Fabric       | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24809/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream2) |
-| September 22 | Building Real Data Solutions with Real-Time Intelligence in Fabric           | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24810/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream3) |
-| September 25 | Data to Insights with Copilot & AI Agents in Fabric                          | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24811/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream4) |
-| September 29 | Empowering AI Driven App Development with Fabric Databases                   | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24812/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream5) |
-| October 2    | Wrap up - How to Submit your hack & Next steps                               | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24813/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream6) |
+| September 22 | FabCon Global Hackathon Kick-off: Do More with AI and Microsoft Fabric       | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24808/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream1) |
+| September 25 | Bring all your data from everywhere into OneLake with Microsoft Fabric       | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24809/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream2) |
+| September 29 | Building Real Data Solutions with Real-Time Intelligence in Fabric           | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24810/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream3) |
+| October 6    | Empowering AI Driven App Development with Fabric Databases                   | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24811/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream4) |
+| October 9    | Turning Data into Insights with Copilot and Data Agents in Microsoft Fabric  | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24812/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream5) |
+| October 16   | Wrap up - How to Submit your hack & Next steps                               | [Join Live](https://developer.microsoft.com/en-us/reactor/events/24813/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream6) |
 
-## 03 - Submit you hack by October 3rd, 11:59 PM PST
+## Get Ready to Build
 
-Submit your project here when it's ready: 🚀 [Project Submission](https://github.com/microsoft/Fabric-Global-Hack-2025/issues/new?assignees=&labels=&projects=&template=hack.yml&title=Project%3A+%3Cshort+description%3E)
-
-Check out this video for step by step project submission guidance: [Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)
-
-For a great example of a community developed solution that demonstrates a high-quality submission for this Hackathon, check out:
-
-[Anomaly_Detection: Runners-Up for the Microsoft Data + AI Kenya Hack](https://github.com/SamuelNw/Anomaly_Detection)
-
-This solution is a great example because it:
-
-- Solves a real-world problem in a novel way using Microsoft Fabric and Azure AI
-- Is shared in a public GitHub repository
-- Has a clear documentation and instructions on how to reproduce the solution
-- Has a clear [video](https://www.youtube.com/watch?v=LM8H3p0z5Js) demonstration of the solution
-
-Check out the winners of the previous Fabric Hackathons:
+Get ready to innovate, collaborate, and have fun. Whether you're building solo or with a team, we can't wait to see what you create. Need some inspiration? Check out these past hackathon winners to get some inspiration for your project:
 
 1. The Microsoft Data + AI Kenya Hack: [Winners](https://blog.fabric.microsoft.com/en-US/blog/announcing-the-winners-of-hack-together-the-microsoft-data-ai-kenya-hack/)
 1. The Microsoft Fabric and AI Learning Hackathon: [Winners](https://blog.fabric.microsoft.com/en-us/blog/announcing-the-winners-of-the-microsoft-fabric-and-ai-learning-hackathon)
 1. The Microsoft Fabric Global AI Hack 2024: [Winners](https://blog.fabric.microsoft.com/en-GB/blog/announcing-the-winners-of-hacktogether-the-microsoft-fabric-global-ai-hack)
 
-## 04 -  Judging and Prizes 🏆
+👉 [Join the FabCon Hackathon](https://aka.ms/FabConHack) and start building with Microsoft Fabric today! 
+
+Want to keep up your Fabric skilling momentum beyond the hackathon? Learn how you can get Microsoft Fabric Certified. [Check out our certification discount offer](https://aka.ms/FabConHack-CertOffer). 
+
+See Terms and Conditions: [https://aka.ms/FabConHack-Terms](https://aka.ms/FabConHack-Terms)
 
 ## Contributing
 
