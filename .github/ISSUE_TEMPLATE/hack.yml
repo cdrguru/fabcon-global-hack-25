@@ -1,5 +1,5 @@
-name: Project Submission
-description: "Share your project with us to get a digital badge and win exciting prizes!"
+name: Submit your Microsoft Fabric FabCon Global Hackathon Project  
+description: "Submit your project any time before November 3rd, 11:59 PM PST. You may submit more than one project, but each submission must be unique and substantially different from your other entries. "
 title: "Project: <short description>"
 body:
   - type: input
