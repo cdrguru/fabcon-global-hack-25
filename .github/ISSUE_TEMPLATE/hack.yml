@@ -15,8 +15,8 @@ body:
       label: MS Learn Fabric Skilling Plan Completion 
       description: Did you complete the Skilling Plan?
       options:
-        - Yes
-        - No
+        - 'Yes'
+        - 'No'
       validations:
         required: true
   - type: textarea
