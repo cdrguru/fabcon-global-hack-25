@@ -1,5 +1,5 @@
-name: Submit your Microsoft Fabric FabCon Global Hackathon Project  
-description: "Submit your project any time before November 3rd, 11:59 PM PST. You may submit more than one project, but each submission must be unique and substantially different from your other entries. "
+name: Submit your Microsoft Fabric FabCon Global Hackathon Project. You may submit more than one project, but each submission must be unique and substantially different from your other entries.
+description: "Submit your project any time before November 3rd, 11:59 PM PST."
 title: "Project: <short description>"
 body:
   - type: input
