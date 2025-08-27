@@ -9,39 +9,49 @@ body:
       description: Name of your project
     validations:
       required: true
+  - type: dropdown
+    id: learn-completion
+    attributes:
+      label: MS Learn Fabric Skilling Plan Completion 
+      description: Did you complete the Skilling Plan?
+      options:
+        - Yes
+        - No
+      validations:
+        required: true
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: Provide a short description of your project. What is it about? What type of app have you built? What is it doing? What problem is it solving?
+      label: Project Pitch or Description
+      description: Provide a short elevator pitch for your project including what you built, which Microsoft and Azure technologies used, what it does, what problem it solves. 
     validations:
       required: true
   - type: input
     id: url
     attributes:
       label: Project Repository URL
-      description: URL of the GitHub repo with your project
+      description: Share a URL to your GitHub code repository. If the repository is private, grant read access to the GitHub users @toolboc and @jcardif before submitting.
     validations:
       required: true
   - type: input
     id: video
     attributes:
-      label: Project video
-      description: A short demo video of your project
+      label: Project Demo video URL
+      description: Share the link to a 3–5-minute public video to YouTube, Vimeo, Facebook, or Youku demonstrating your project in action.  
     validations:
       required: true
   - type: input
     id: teammembers
     attributes:
       label: Team members
-      description: Comma-separated list of GitHub users who worked on this project
+      description: Comma-separated list of GitHub usernames who also worked on this project. 
     validations:
-      required: true
+      required: false
   - type: checkboxes
     id: registered
     attributes:
       label: Registration status.
-      description: By submitting this project, you confirm that your team is registered for the hackathon. Only registered teams will be considered. To register, complete the form at [aka.ms/data-ai-hack-kenya/register](https://aka.ms/data-ai-hack-kenya/register)
+      description: By submitting this project, you confirm that your team is registered for the hackathon. Only registered teams will be considered. To register, complete the form at [aka.ms/fabconhack/register](https://aka.ms/fabconhack/register)
       options:
         - label: I have completed registration
           required: true

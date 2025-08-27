@@ -15,7 +15,7 @@ The hackathon welcomes participants of all skill levels; from beginners to seaso
 1. Register now at https://aka.ms/FabConRegister 
 1. Complete the [Microsoft Fabric & FabCon Hackathon Skilling Plan](https://aka.ms/FabConHack-SkillingPlan)
 1. Choose a category and start building! To build your solutions on Microsoft Fabric you will need Fabric Capacity. If you do not have one, follow [these instructions](/CREATE_FABRIC_CAPACITY.md) to create one.
-1. Submit your project any time before November 3rd, 11:59 PM PST. Provide a brief description of the project, the solution overview, short video demo of your solution, a link to a project repository on GitHub and an attestation to the completion of the Skilling Plan. You can submit your solution [here](https://github.com/microsoft/fabcon-global-hack-25/issues/new?assignees=&labels=&projects=&template=hack.yml&title=Project:+%3Cshort+description%3E).
+1. Submit your project any time before November 3rd, 11:59 PM PST. Provide a brief description of the project, the solution overview, short video demo of your solution, a link to a project repository on GitHub and an attestation to the completion of the Skilling Plan. You can submit your solution [here](https://aka.ms/FabConHackProjectSubmission).
 1. 📣 Winners will be announced the week of November 10, 2025. 
 
 ## What to Build
@@ -72,7 +72,7 @@ Winners will be featured on Microsoft’s blog and social media.
 | Best Use of Open Mirroring | $1500 |  Demonstrates seamless ingestion and analytics using mirrored external data |
 
 ## Judging Criteria
-[Submit your project](https://github.com/microsoft/fabcon-global-hack-25/issues/new?assignees=&labels=&projects=&template=hack.yml&title=Project:+%3Cshort+description%3E) any time before November 3rd, 11:59 PM PST. Projects will be evaluated by Microsoft product managers and developer advocates across four categories, and each contributes 25% to the final score: 
+[Submit your project](https://aka.ms/FabConHackProjectSubmission) any time before November 3rd, 11:59 PM PST. Projects will be evaluated by Microsoft product managers and developer advocates across four categories, and each contributes 25% to the final score: 
 
 | Judging Criteria | What Judges are Looking For |
 |---|---|
@@ -88,7 +88,7 @@ Winners will be featured on Microsoft’s blog and social media.
 - Demo Video: Link to a 3–5-minute public video to YouTube, Vimeo, or Facebook demonstrating your project in action.
 - Access: Working link to your project (website, demo, or test build) for judging.  
 
-[Submit your Project Here](https://github.com/microsoft/fabcon-global-hack-25/issues/new?assignees=&labels=&projects=&template=hack.yml&title=Project:+%3Cshort+description%3E). Winners will be announced during the week of November 10, 2025. 
+[Submit your Project Here](https://aka.ms/FabConHackProjectSubmission). Winners will be announced during the week of November 10, 2025. 
 
 ## 🎉 Let’s Hack Together! 
 
