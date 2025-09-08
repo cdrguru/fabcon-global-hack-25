@@ -1,14 +1,23 @@
-name: Submit your Microsoft Fabric FabCon Global Hackathon Project. You may submit more than one project, but each submission must be unique and substantially different from your other entries.
+name: Submit your project any time before November 3rd, 11:59 PM PST. You may submit more than one project, but each submission must be unique and substantially different from your other entries. Submissions will be evaluated by a panel of judges, including product managers and developer advocates at Microsoft. Winners announced the week of November 10, 2025.  
 description: "Submit your project any time before November 3rd, 11:59 PM PST."
 title: "Project: <short description>"
 body:
   - type: input
-    id: name
+    id: rep-name
+    attributes:
+      label: Representative First and Last Name
+      description: Please use the same name you used to register at https://aka.ms/FabConRegister
+    validations:
+      required: true
+
+  - type: input
+    id: project-name
     attributes:
       label: Project name
       description: Name of your project
     validations:
       required: true
+
   - type: dropdown
     id: learn-completion
     attributes:
@@ -20,6 +29,7 @@ body:
         - 'No'
     validations:
       required: true
+
   - type: textarea
     id: description
     attributes:
@@ -27,6 +37,7 @@ body:
       description: Provide a short elevator pitch for your project including what you built, which Microsoft and Azure technologies used, what it does, what problem it solves. 
     validations:
       required: true
+
   - type: input
     id: url
     attributes:
@@ -34,6 +45,7 @@ body:
       description: Share a URL to your GitHub code repository. If the repository is private, grant read access to the GitHub users @toolboc and @jcardif before submitting.
     validations:
       required: true
+
   - type: input
     id: video
     attributes:
@@ -41,6 +53,7 @@ body:
       description: Share the link to a 3–5-minute public video to YouTube, Vimeo, Facebook, or Youku demonstrating your project in action.  
     validations:
       required: true
+
   - type: input
     id: teammembers
     attributes:
@@ -48,11 +61,12 @@ body:
       description: Comma-separated list of GitHub usernames who also worked on this project. 
     validations:
       required: false
+
   - type: checkboxes
     id: registered
     attributes:
       label: Registration status.
-      description: By submitting this project, you confirm that your team is registered for the hackathon. Only registered teams will be considered. To register, complete the form at [aka.ms/fabconhack/register](https://aka.ms/fabconhack/register)
+      description: By submitting this project, you confirm that your team is registered for the hackathon. Only registered teams will be considered. To register, complete the form at [aka.ms/FabConHackRegister](https://aka.ms/FabConHackRegister)
       options:
         - label: I have completed registration
           required: true

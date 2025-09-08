@@ -101,14 +101,14 @@ Winners will be featured on Microsoft’s blog and social media.
 
 Join these livestream (and on-demand) sessions to learn how to build AI-powered data and analytics solutions with Microsoft Fabric and get inspired to start hacking! All the sessions will be at **09:00 AM (PST)**
 
-| Date         | Live Stream Topic                                                            | Live Link                                                                | Add to Calendar Invite                                                                         |
-| --------     | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| September 22 | FabCon Global Hackathon Kick-off: Do More with AI and Microsoft Fabric       | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26232/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream1) |
-| September 25 | Bring all your data from everywhere into OneLake with Microsoft Fabric       | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26233/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream2) |
-| September 29 | Building Real Data Solutions with Real-Time Intelligence in Fabric           | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26234/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream3) |
-| October 6    | Empowering AI Driven App Development with Fabric Databases                   | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26236/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream4) |
-| October 9    | Turning Data into Insights with Copilot and Data Agents in Microsoft Fabric  | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26235/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream5) |
-| October 16   | Wrap up - How to Submit your hack & Next steps                               | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26237/) | [![Calendar Invite](https://shorturl.at/8vei3)](https://aka.ms/data-ai-hack-kenya/livestream6) |
+| Date         | Live Stream Topic                                                            | Live Link                                                                |
+| --------     | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| September 22 | FabCon Global Hackathon Kick-off: Do More with AI and Microsoft Fabric       | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26232/) |
+| September 25 | Bring all your data from everywhere into OneLake with Microsoft Fabric       | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26233/) |
+| September 29 | Building Real Data Solutions with Real-Time Intelligence in Fabric           | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26234/) |
+| October 6    | Empowering AI Driven App Development with Fabric Databases                   | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26236/) |
+| October 9    | Turning Data into Insights with Copilot and Data Agents in Microsoft Fabric  | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26235/) |
+| October 16   | Wrap up - How to Submit your hack & Next steps                               | [Join Live](https://developer.microsoft.com/en-us/reactor/events/26237/) |
 
 ## Get Ready to Build
 
