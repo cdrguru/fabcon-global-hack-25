@@ -12,7 +12,7 @@ Unleash the power of Microsoft Fabric to create real-world AI and analytics solu
 
 The hackathon welcomes participants of all skill levels; from beginners to seasoned data professionals. You can participate solo or form a team of up to three members.  
 
-1. Register now at [https://aka.ms/FabConRegister](https://aka.ms/FabConRegister)
+1. Register now at [https://aka.ms/FabConHackRegister](https://aka.ms/FabConHackRegister)
 1. Complete the [Microsoft Fabric & FabCon Hackathon Skilling Plan](https://aka.ms/FabConHack-SkillingPlan)
 1. Choose a category and start building! To build your solutions on Microsoft Fabric you will need Fabric Capacity. If you do not have one, follow [these instructions](/CREATE_FABRIC_CAPACITY.md) to create one.
 1. Submit your project any time before November 3rd, 11:59 PM PST. Provide a brief description of the project, the solution overview, short video demo of your solution, a link to a project repository on GitHub and an attestation to the completion of the Skilling Plan. You can [submit your solution here](https://aka.ms/FabConHackProjectSubmission).
