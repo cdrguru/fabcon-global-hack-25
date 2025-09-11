@@ -118,7 +118,7 @@ Get ready to innovate, collaborate, and have fun. Whether you're building solo o
 1. The Microsoft Fabric and AI Learning Hackathon: [Winners](https://blog.fabric.microsoft.com/en-us/blog/announcing-the-winners-of-the-microsoft-fabric-and-ai-learning-hackathon)
 1. The Microsoft Fabric Global AI Hack 2024: [Winners](https://blog.fabric.microsoft.com/en-GB/blog/announcing-the-winners-of-hacktogether-the-microsoft-fabric-global-ai-hack)
 
-👉 [Join the FabCon Hackathon](https://aka.ms/FabConHack) and start building with Microsoft Fabric today!
+👉 [Join the FabCon Hackathon](https://aka.ms/FabConHackRegister) and start building with Microsoft Fabric today!
 
 Want to keep up your Fabric skilling momentum beyond the hackathon? Learn how you can get Microsoft Fabric Certified. [Check out our certification discount offer](https://aka.ms/FabConHack-CertOffer).
 
