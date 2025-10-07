@@ -93,7 +93,7 @@ Winners will be featured on Microsoft’s blog and social media.
 
 ## 🎉 Let’s Hack Together
 
-👉 Join the [Hackathon Discord Channel](https://discord.com/channels/1113626258182504448/1397841931182276701) to connect with experts and peers to get help on your project.
+👉 Join the [Hackathon Discord Channel](https://aka.ms/FabConHack-Discord) to connect with experts and peers to get help on your project.
 
 ![Hackathon Roadmap](/Assets/roadmap.png)
 
